@@ -1,0 +1,6 @@
+/node_modules/
+yarn-error.log
+.idea/inspectionProfiles/Project_Default.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/github-trending-task.iml

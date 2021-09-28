@@ -1,0 +1,30 @@
+[
+  {
+    "key": "javascript",
+    "value": "JavaScript"
+  },
+  {
+    "key": "typescript",
+    "value": "TypeScript"
+  },
+  {
+    "key": "rust",
+    "value": "Rust"
+  },
+  {
+    "key": "python",
+    "value": "Python"
+  },
+  {
+    "key": "jupyter notebook",
+    "value": "Jupyter Notebook"
+  },
+  {
+    "key": "go",
+    "value": "Go"
+  },
+  {
+    "key": "java",
+    "value": "Java"
+  }
+]
