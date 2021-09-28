@@ -1,4 +1,5 @@
-# Github Tranding Task
+# Github Trending Task
+### `npm install`
 
 ## Available Scripts
 
