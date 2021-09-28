@@ -1,11 +1,7 @@
 # Github Trending Task
-### `npm install`
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
+### Run `npm install`
+### rename `env.txt` to `.env`
+### Then run `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. if you want to check the task go to
